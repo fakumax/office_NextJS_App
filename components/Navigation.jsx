@@ -21,9 +21,9 @@ const link = [
 const Navigation = () => {
   return (
     <header>
-      <nav className='items-center pt-4 flex flex-row sm:space-x-20 md:space-x-20 lg:space-x-40'>
+      <nav className={styles.Navigation}>
         <Logo />
-        <ul className={styles.navigation}>
+        <ul className={styles.links}>
           {link.map(({ label, route }) => (
             <li key={label}>
               <Link href={route}>{label}</Link>
