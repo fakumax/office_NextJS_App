@@ -9,13 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@glidejs/glide": "^3.6.0",
     "@next/font": "^13.1.6",
+    "@glidejs/glide": "^3.6.0",
     "@redq/reuse-modal": "^2.0.0",
     "@styled-system/theme-get": "^5.1.2",
-    "eslint": "8.32.0",
-    "eslint-config-next": "13.1.2",
-    "next": "13.1.2",
+    "eslint": "8.34.0",
+    "eslint-config-next": "13.1.6",
+    "next": "13.1.6",
     "rc-drawer": "^6.1.3",
     "rc-tabs": "^12.5.7",
     "react": "18.2.0",

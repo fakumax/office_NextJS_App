@@ -1,0 +1,30 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[3]!./components/Navigation.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************/
+.Navigation_links__pY8MK{
+     list-style-type: none;
+}
+.Navigation_links__pY8MK a:hover{
+    text-decoration: underline;
+}
+.Navigation_links__pY8MK {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.Navigation_Navigation__YkO9w{
+    display: flex;
+    justify-content: space-between  ;
+    align-items: center;
+    padding: 0 30px;
+    background-image: linear-gradient( 180.5deg,  rgba(46,255,171,1) 12.3%, rgba(252,251,222,0.46) 92% );
+    box-shadow: 0 5px 15px(rgba(0,0,0,0.25));
+    width: 95%;
+    height: 80px;
+    border-radius: 10px;
+    position: fixed;
+    top:20px; 
+    left:50%;
+    transform: translate(-50%);
+}
