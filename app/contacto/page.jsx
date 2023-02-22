@@ -1,7 +1,11 @@
 import React from 'react';
 
 const Contacto = () => {
-  return <div>Desde contacto</div>;
+  return (
+    <main>
+      <div>Desde contacto</div>
+    </main>
+  );
 };
 
 export default Contacto;
